@@ -11,7 +11,7 @@ slug: transport
 ---
 # Se déplacer à Boston 
 Les transports en commun ne sont malheureusement pas aussi développés qu'en France; Ici, la voiture est reine.
-Les services de VTC comme Uber ou Lyft sont bien plus abordables qu'en France. Le __leasing_ pour la location de voiture est une pratique répandue ici.
+Les services de VTC comme Uber ou Lyft sont bien plus abordables qu'en France. Le _leasing_ pour la location de voiture est une pratique répandue ici.
 
 # Un peu d'exercice
 
