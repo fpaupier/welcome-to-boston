@@ -1,0 +1,12 @@
+id = "fpaupier"
+
+[email]
+username = "francois.paupier"
+host = "gmail.com"
+
+[name]
+display = "François Paupier"
+
+[social]
+email = ""
+twitter = "fpaupier"
