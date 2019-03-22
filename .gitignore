@@ -1,2 +1,5 @@
 # ignore Mac files
 .DS_Store
+
+# Webstorm files
+.idea/
