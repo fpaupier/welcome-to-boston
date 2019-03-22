@@ -2,19 +2,15 @@
 title: A propos
 menu: main
 weight: -210
-hardLineBreak: true
 ---
 
 ## [welcometoboston](https://www.welcometoboston.tech), c'est quoi?
-[welcometoboston.tech](https://www.welcometoboston.tech) est une initiative de plusieurs jeunes partis en [VIE](https://www.civiweb.com/FR/le-volontariat-international/definition-du-vie.aspx)
- aux Etats-Unis dans la région de Boston, MA.
+[welcometoboston.tech](https://www.welcometoboston.tech) est une initiative de plusieurs jeunes partis en [VIE](https://www.civiweb.com/FR/le-volontariat-international/definition-du-vie.aspx) aux Etats-Unis dans la région de Boston, MA.
   
-  Débarquer dans une nouvelle ville à l'étranger est une aventure qui peut être déconcertante au début.
- On se propose donc de rassembler ici des conseils pour l'arrivée et la vie à Boston.
- On parle de plein de choses ici:
+ Débarquer dans une nouvelle ville à l'étranger est une aventure qui peut être déconcertante au début. On se propose donc de rassembler ici des conseils pour l'arrivée et la vie à Boston. On parle de plein de choses ici:
  
  - Comment trouver un logement 
- - Des conseils sur comment remplir ses taxes aux US _(spoiler alert: c'est compliqué)_ 
+ - Des conseils sur comment remplir ses taxes aux US _(spoiler alert: c'est compliqué)_
  - Des conseils de sorties
  - et bien d'autres :wink:
   
@@ -27,8 +23,7 @@ En ajoutant des recommendations ou encore pour témoigner de son experience, pou
  D'autres mécanismes de collaboration sont à l'étude.
  
 ## Mentions légales
- 
- [welcometoboston.tech](https://www.welcometoboston.tech) est un site web statique. Nous ne traquons pas nos utilisateurs et nous n'utilisons pas de cookies. Nous ne stockons aucun historique de session utilisateurs.
+[welcometoboston.tech](https://www.welcometoboston.tech) est un site web statique. Nous ne traquons pas nos utilisateurs et nous n'utilisons pas de cookies. Nous ne stockons aucun historique de session utilisateurs.
  
 ### Editeur
 Le site [welcometoboston.tech](https://www.welcometoboston.tech) est édité par François Paupier.
