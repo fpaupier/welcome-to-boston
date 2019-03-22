@@ -48,13 +48,10 @@ That's all, Minimo is ready to be used.
 
 ## Configuration for Minimo
 
-For getting started with Minimo, copy the **`config.toml`** file from the **`exampleSite`** directory inside Minimo's repository to your site repository:
 
 ```sh
 cp themes/minimo/exampleSite/config.toml .
 ```
-
-You can take a look at the [**`config.toml`** file]({{< relref "/docs/config-file.md" >}}) of this site.
 
 Now, you can start editing this file and change the configuration!
 
