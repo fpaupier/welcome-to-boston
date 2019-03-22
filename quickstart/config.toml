@@ -135,6 +135,7 @@ url = "https://github.com/fpaupier/welcome-to-boston"
 
 [blackfriday]
 hrefTargetBlank = true
+extensions = ['hardLineBreak']
 
 [languages]
 # edit this block for your own language
