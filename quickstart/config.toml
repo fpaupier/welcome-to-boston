@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "fr"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = ""
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -128,7 +128,7 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = "Contribuer"
 weight = -10
 identifier = "repository"
 url = "https://github.com/fpaupier/welcome-to-boston"
