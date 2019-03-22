@@ -7,8 +7,6 @@ categories:
   - articles
 tags:
   - banque
-  - argent
-  - dollar
 slug: banque
 ---
 # Choisir sa banque
