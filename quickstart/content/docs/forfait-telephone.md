@@ -10,7 +10,7 @@ tags:
 slug: forfait-telephone
 ---
 
-# En résumé; choisissez un opérateur français
+# Des forfaits français généralement plus intéressants
  
 Les forfaits mobiles sont beaucoup plus cher aux US. Ici, c'est comme en France avant l'arrivée de _Free_. Plusieurs solutions s'offrent à vous:
 
