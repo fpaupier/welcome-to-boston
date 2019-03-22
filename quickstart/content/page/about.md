@@ -28,8 +28,7 @@ En ajoutant des recommendations ou encore pour témoigner de son experience, pou
  
 ## Mentions légales
  
- [welcometoboston.tech](https://www.welcometoboston.tech) est un site web statique. Nous ne traquons pas nos utilisateurs.
- Nous n'utilisons pas de cookies. Nous ne stockons aucun historique de session utilisateurs.
+ [welcometoboston.tech](https://www.welcometoboston.tech) est un site web statique. Nous ne traquons pas nos utilisateurs et nous n'utilisons pas de cookies. Nous ne stockons aucun historique de session utilisateurs.
  
 ### Editeur
 Le site [welcometoboston.tech](https://www.welcometoboston.tech) est édité par François Paupier.
