@@ -1,7 +1,7 @@
 ---
 date: 2018-07-05T23:30:00+06:00
 title: "Search: Algolia"
-authors: ["muniftanjim"]
+authors: ["fpaupier"]
 categories:
   - features
 tags:

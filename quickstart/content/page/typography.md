@@ -1,7 +1,7 @@
 ---
 date: 2017-09-28T08:00:00+06:00
 title: Typography
-authors: ["muniftanjim"]
+authors: ["fpaupier"]
 slug: typography
 menu: main
 weight: -230

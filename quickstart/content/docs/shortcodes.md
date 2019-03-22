@@ -1,7 +1,7 @@
 ---
 date: 2017-10-05T20:00:00+06:00
 title: Shortcodes
-authors: ["muniftanjim"]
+authors: ["fpaupier"]
 categories:
   - features
 tags:

@@ -2,7 +2,7 @@
 date: 2018-02-07T18:30:00+06:00
 lastmod: 2018-11-21T19:00:00+06:00
 title: Widgets
-authors: ["muniftanjim"]
+authors: ["fpaupier"]
 categories:
   - features
 tags:

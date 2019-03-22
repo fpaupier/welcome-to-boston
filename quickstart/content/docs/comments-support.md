@@ -2,7 +2,7 @@
 date: 2018-03-29T09:00:00+06:00
 lastmod: 2019-01-06T23:30:00+06:00
 title: Comments Support
-authors: ["muniftanjim"]
+authors: ["fpaupier"]
 categories:
   - features
 tags:
@@ -86,7 +86,7 @@ First of all, set up the following options in your `config.toml` file:
 enable = true
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
-username = "MunifTanjim"
+username = "fpaupier"
 repository = "minimo"
 branch = "master"
 ```
@@ -143,7 +143,7 @@ enable = true
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
-username = "MunifTanjim"
+username = "fpaupier"
 repository = "minimo"
 ```
 

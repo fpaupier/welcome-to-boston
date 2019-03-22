@@ -5,5 +5,5 @@ menu:
   - sidebar
 weight: -270
 ---
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+Welcome to Boston c'est un blog collaboratif qui condense toute l'expériences de jeunes partis travaillé dans la région de Boston. :us:
+

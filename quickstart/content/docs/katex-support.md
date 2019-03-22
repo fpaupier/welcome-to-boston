@@ -1,7 +1,7 @@
 ---
 date: 2018-08-12T12:30:00+06:00
 title: KaTeX Support
-authors: ["muniftanjim"]
+authors: ["fpaupier"]
 categories:
   - features
 tags:
