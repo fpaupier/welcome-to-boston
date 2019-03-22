@@ -23,7 +23,7 @@ De manière générale, se loger à Boston coûte cher - (prix plus élevés qu'
 
 Il y a également [craiglist](https://boston.craigslist.org/) une sorte de "leboncoin" qui est une piste de recherche possible. Dans tout les cas, demandez à vos amis, collègues ou contacts à Boston si ils n'ont pas des plans du dernier moment à vous partager (une chambre vient de se libérer).
 
-If you replace somebody during an existing lease, you might have to pay to this person his last month rent + a security deposit + your first month.
+Si vous remplacez une personne pendant un bail existant, vous devrez peut-être lui payer son loyer du dernier mois ainsi qu'un dépôt de garantie en plus de votre premier mois.
 
 ### Choisir son quartier
 
