@@ -1,6 +1,6 @@
 ---
-title: Documentation
-linkTitle: Docs
+title: Articles
+linkTitle: Articles
 menu:
   main:
   sidebar:
