@@ -1,4 +1,4 @@
-baseURL = "http://www.welcometoboston.tech/"
+baseURL = "https://www.welcometoboston.tech/"
 languageCode = "fr-fr"
 title = "Welcome to Boston"
 theme = "ananke"
