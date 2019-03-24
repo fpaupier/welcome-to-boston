@@ -4,7 +4,7 @@ lastmod: 2019-03-22T03:00:00.000Z
 title: Choisir son forfait mobile
 categories:
   - articles
-slug: sample-slug
+slug: forfait-telephone
 tags:
   - forfait mobile
 ---
