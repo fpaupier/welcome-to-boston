@@ -27,7 +27,7 @@ collections:
              displayFields: ["author_name"],
              required: false}
       - {label: "Categories", name: "categories", widget: "list", allow_add: false, default: ["articles"], required: false}
-      - {label: "slug", name: "slug", widget: "string", default: "{{slug}}", requied: false}
+      - {label: "slug", name: "slug", widget: "string", default: "{{slug}}", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
