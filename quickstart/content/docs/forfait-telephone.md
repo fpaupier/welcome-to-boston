@@ -1,7 +1,12 @@
 ---
-title: Choisir son forfait mobile
 date: 2019-03-22T03:00:00.000Z
 lastmod: 2019-03-22T03:00:00.000Z
+title: Choisir son forfait mobile
+categories:
+  - articles
+slug: sample-slug
+tags:
+  - forfait mobile
 ---
 # Des forfaits français généralement plus intéressants
 
