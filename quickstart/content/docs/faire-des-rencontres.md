@@ -9,6 +9,7 @@ slug: faire-des-rencontres
 tags:
   - decouvrir
   - experience
+  - sport
 ---
 Quand on arrive on ne connaît pas forcément beaucoup de gens sur places.
 Il existe plein de façons de faire des recontres
