@@ -15,16 +15,19 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Last Edited Date", name: "lastmod", widget: "datetime"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Post Author",
              name: "authors",
              widget: "relation",
-             collection: "authors",
-             searchFields: ["author_name"],
+             collection: "author",
+             searchFields: ["id", "author_name"],
              valueField: "author_name",
              displayFields: ["author_name"]}
+      - {label: "Categories", name: "categories", widget: "list", allow_add: false, default: ["articles"]}
+      - {label: "slug", name: "slug", widget: "string", default: ["{{slug}}"]}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
 
