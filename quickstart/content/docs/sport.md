@@ -10,6 +10,11 @@ tags:
   - sport
   - culture
   - sorties
+cover:
+  image: /images/Boston-sports.png
+  alternate: Boston sports team logo
+  caption: Les logos des grands clubs de Boston
+  style: normal
 ---
 # _Go Celtics!_
 
