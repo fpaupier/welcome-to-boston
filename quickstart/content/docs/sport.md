@@ -26,7 +26,7 @@ Les _Boston Celtics_ (NBA) ont le troisième plus haut pourcentage record de vic
 
 ## Hockey sur glace
 
-Les _Boston Bruins_ (NHL) ont la septième plus longue séquence de séries d'apparitions d'après-saison dans la NHL (2 saisons)
+Les _Boston Bruins_ (NHL) ont la septième plus longue séquence de séries d'apparitions d'après-saison dans la NHL (2 saisons).
 
 ## Baseball
 
