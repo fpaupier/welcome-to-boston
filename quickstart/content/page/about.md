@@ -19,7 +19,7 @@ weight: -210
 Ce site existe pour être utile aux nouveaux arrivant. C'est avant tout un blog collaboratif ou chacun est inviter à venir contribuer à sa façon.
 En ajoutant des recommendations ou encore pour témoigner de son experience, pour que ce blog reste pertinent au cours du temps.
  
- Pour l'instant les contributions sont possibles via le [répertoire GitHub du projet](www.github.com/fpaupier/welcome-to-boston) :computer:
+ Pour l'instant les contributions sont possibles via le [répertoire GitHub du projet](https://www.github.com/fpaupier/welcome-to-boston) :computer:
  D'autres mécanismes de collaboration sont à l'étude.
  
 ## Mentions légales
