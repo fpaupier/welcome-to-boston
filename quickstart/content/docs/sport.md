@@ -2,8 +2,7 @@
 date: 2019-03-24T08:00:00.000Z
 lastmod: 2019-03-24T17:00:00.000Z
 title: Le sport à Boston
-authors:
-  - fpaupier
+authors: ["fpaupier"]
 categories:
   - articles
 slug: sport
