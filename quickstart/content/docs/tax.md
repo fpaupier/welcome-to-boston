@@ -1,11 +1,12 @@
 ---
-date: 2019-03-24T14:00:00+06:00
-lastmod: 2019-03-24T23:00:00+06:00
-title: "Quelques infos sur les taxes"
-authors: ["fpaupier"]
+date: 2019-03-24T08:00:00.000Z
+lastmod: 2019-03-24T17:00:00.000Z
+title: Quelques infos sur les taxes
+authors:
+  - fpaupier
 categories:
   - articles
-slug: sorties
+slug: ''
 tags:
   - tax
 ---
